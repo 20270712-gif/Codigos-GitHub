@@ -1,0 +1,13 @@
+close all
+clear
+clc
+clf
+DibujaEjes(3)
+
+l1 = input("Longitud del eslabon 1 [m]: ");
+l2 = input("Longitud del eslabon 2 [m]: ");
+l3 = input("Longitud del eslabon 3 [m]: ");
+
+theta1 = input("Angulo de la articulacion 1 [rad]: ");
+theta2 = input("Angulo de la articulacion 2 [rad]: ");
+theta3 = input("Angulo de la articulacion 3 [rad]: ");
